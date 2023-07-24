@@ -5,6 +5,8 @@ Ce jeu se joue à deux (un sélectionneur et un devin) et ses règles sont simpl
 # Utilisation
 Télecharger et exécuter le fichier principal dans Python and enjoy une partie.
 
+# Prochaines étapes : l'interface graphique
+
 # Personnages
 
 ![visages](https://github.com/Nimaga95/Devine_Qui-Game/assets/117949986/939be392-ea8a-4df4-84a0-5c4c39160029)

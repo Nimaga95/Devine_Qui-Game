@@ -7,4 +7,4 @@ Télecharger et exécuter le fichier principal dans Python and enjoy une partie.
 
 # Personnages
 
-![visages](https://github.com/Nimaga95/Devine_Qui-Game/assets/117949986/96b3a050-7b60-451e-af5e-74a4c4d7265a)
+[visages](https://github.com/Nimaga95/Devine_Qui-Game/assets/117949986/96b3a050-7b60-451e-af5e-74a4c4d7265a)

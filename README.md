@@ -1,13 +1,13 @@
-# Devine_Qui-Game?
+# Gest Who!
 
-Ce jeu se joue à deux (un sélectionneur et un devin) et ses règles sont simples. Étant donné un ensemble de personnages prédéterminé, le sélectionneur choisit un personnage de l’ensemble et garde son choix secret. Le devin doit alors poser une série de questions se répondant par oui ou non au sélectionneur quant aux caractéristiques du personnage choisi. Lorsqu’il ne reste qu’un personnage correspondant aux caractéristiques déterminées, le devin demande s’il s’agit bien du personnage sélectionné. Le but du devin est d’identifier ce personnage en posant le moins de questions possible, tandis que le sélectionneur a un rôle plutôt passif.
+This game is played by two (a selector and a guesser) and its rules are simple. Given a predetermined set of characters, the selector chooses one character from the set and keeps their choice secret. The diviner must then ask a series of yes or no questions to the selector as to the characteristics of the chosen character. When there is only one character remaining corresponding to the determined characteristics, the diviner asks if it is indeed the selected character. The goal of the diviner is to identify this character by asking as few questions as possible, while the selector has a rather passive role.
 
-# Utilisation
-Télecharger et exécuter le fichier principal dans Python and enjoy une partie.
+# Use
+Download and run the main file in Python and enjoy some.
 
-# Prochaines étapes : l'interface graphique
+# Next steps: the GUI
 
-# Personnages
+# Game Characters
 
 ![visages](https://github.com/Nimaga95/Devine_Qui-Game/assets/117949986/939be392-ea8a-4df4-84a0-5c4c39160029)
 
